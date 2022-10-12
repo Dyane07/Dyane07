@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dyane07😁
+## Bem-vindo(a) ao perfil de Dyane07😁
 
 <div>
    <a href="https://github.com/Dyane07">
