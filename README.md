@@ -22,6 +22,4 @@
  
 </div>
 
-  ![Snake animation](https://github.com/Dyane07
-/Dyane07
-/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Dyane07/Dyane07/blob/output/github-contribution-grid-snake.svg)
